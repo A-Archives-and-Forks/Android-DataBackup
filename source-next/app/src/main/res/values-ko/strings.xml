@@ -145,7 +145,7 @@
     <string name="settings">설정</string>
     <string name="install_time">설치 시간</string>
     <string name="not_selected">선택되지 않음</string>
-    <string name="please_set_up_backup_dir">백업 디렉토리를 설정하십시오.</string>
+    <string name="please_set_up_backup_dir">백업 디렉토리를 설정하십시오</string>
     <string name="original_data_size">데이터 크기(원본)</string>
     <string name="available_space">사용 가능한 공간</string>
     <string name="speed_mode">속도 모드</string>
@@ -496,7 +496,7 @@
     <string name="checking_updates">업데이트 확인 중</string>
     <string name="new_version_available">새로운 버전이 있습니다</string>
     <string name="version_up_to_date">최신 버전에 있습니다</string>
-    <string name="latest">최근의</string>
+    <string name="latest">최신</string>
     <string name="current">현재</string>
     <string name="github_api_rate_limited">GitHub API 속도 제한 도달. %1$s 후 다시 시도하십시오.</string>
     <string name="retry_after">%1$s 후 다시 시도 하세요</string>
